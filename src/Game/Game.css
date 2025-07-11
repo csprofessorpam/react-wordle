@@ -1,0 +1,23 @@
+
+
+.game-board{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    width: 80%;
+    background-color: yellow;
+}
+
+.word-row{
+    display: flex;
+}
+
+.word-row h3{
+    margin: 5px;
+}
+
+.key-board button{
+    margin: 5px;
+    width: 50px;
+}

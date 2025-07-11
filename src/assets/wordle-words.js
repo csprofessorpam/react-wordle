@@ -1,3 +1,6 @@
+
+//https://github.com/MasterZii/WordleWords/blob/main/wordle-words.json
+
 const wordlist = [
     "aargh",
     "abaca",

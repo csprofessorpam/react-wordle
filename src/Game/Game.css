@@ -6,7 +6,7 @@
     align-items: center;
 
     width: 80%;
-    background-color: yellow;
+    border: 3px solid black;
 }
 
 .word-row{
@@ -14,10 +14,28 @@
 }
 
 .word-row h3{
-    margin: 5px;
+    /* margin: 5px; */
+    padding: 5px;
+    width: 2em;
 }
 
 .key-board button{
     margin: 5px;
     width: 50px;
+}
+
+h3{
+    border: 1px solid gray;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.green{
+    background-color: lightgreen;
+}
+
+.gray{
+    background-color: lightgray;
 }

@@ -1,0 +1,18 @@
+
+
+.yellow{
+    background-color: yellow;
+}
+
+.green{
+    background-color: lightgreen;
+}
+
+.gray{
+    background-color: lightgray;
+}
+
+.key-board{
+    margin-top: 20px;
+    border-top: 3px solid black;
+}

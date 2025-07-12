@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import Game from './Game/Game'
+import GameBoard from './GameBoard/GameBoard'
 
 
 function App() {
@@ -10,7 +11,7 @@ function App() {
     <div className="app-container">
       
       <h1>My Wordle</h1>
-      <Game />
+      <GameBoard />
       
     </div>
   )

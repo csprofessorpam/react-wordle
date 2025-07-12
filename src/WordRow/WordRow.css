@@ -1,0 +1,13 @@
+.word-row{
+    display: flex;
+}
+
+.word-row h3{
+    /* margin: 5px; */
+    padding: 5px;
+    width: 2em;
+}
+
+h3{
+    border: 1px solid gray;
+}
